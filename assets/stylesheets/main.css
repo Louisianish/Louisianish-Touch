@@ -53,7 +53,8 @@ table {
     line-height: 44px;
     font-size: 28px;
     text-align: center;
-    background-color: #ffeee6;
+    background: rgb(249,249,249);
+    background: linear-gradient(180deg, rgba(249,249,249,1) 25%, rgba(255,243,198,1) 50%, rgba(255,241,161,1) 75%, rgba(255,214,214,1) 100%);
     margin-top: 80px;
     margin-right: auto;
     margin-bottom: 50px;
@@ -77,7 +78,7 @@ h2 {
     font-weight: bold;
     font-size: 26px;
     color: #e63900;
-    text-shadow: 0 0 10px white;
+    text-shadow: 1px 1px 1px white;
     padding-top: 20px;
     padding-bottom: 5px;
 }
